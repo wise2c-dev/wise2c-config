@@ -1,0 +1,7 @@
+branchs:
+- branch: release-1.11
+  kube_version: v1.11.10
+  docker_version: 1.13.1-96.gitb2f74b2.el7.centos.x86_64
+- branch: release-1.13
+  kube_version: v1.13.8
+  docker_version: 18.06.3.ce-3
