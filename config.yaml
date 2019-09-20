@@ -2,12 +2,12 @@ branchs:
 - branch: release-1.11
   #kube_version: v1.11.10
   #docker_version: 1.13.1-96.gitb2f74b2.el7.centos.x86_64
-  kube_versoin: v1.11.8
+  kube_version: v1.11.8
   docker_version: 1.13.1-91.git07f3374.el7.centos.x86_64
   haproxy_version: 1.8.14
   keepalived_version: 1.3.5
-  dashboard_version: 1.10.1
-  flannel_version: 0.11.0
+  dashboard_version: v1.10.1
+  flannel_version: v0.11.0
   consul_version: 0.9.4
   mysql_version: 5.7
   nats_version: 1.3.0
@@ -21,8 +21,8 @@ branchs:
   haproxy_version: 1.8.14
   keepalived_version: 1.3.5
   metrics_server_version: 0.3.3
-  dashboard_version: 1.10.1
-  flannel_version: 0.11.0
+  dashboard_version: v1.10.1
+  flannel_version: v0.11.0
   istio_version: 1.1.7
   consul_version: 0.9.4
   mysql_version: 5.7
@@ -37,8 +37,8 @@ branchs:
   docker_version: 18.09.8-3
   haproxy_version: 1.8.14
   keepalived_version: 1.3.5
-  dashboard_version: 1.10.1
-  flannel_version: 0.11.0
+  dashboard_version: v1.10.1
+  flannel_version: v0.11.0
   istio_version: 1.1.7
   consul_version: 0.9.4
   mysql_version: 5.7
